@@ -1,0 +1,15 @@
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.heading{
+    font-size: 1.3rem;
+}
+
+
+.gallery img{
+    width: 270px;
+    height: 360px;
+}
